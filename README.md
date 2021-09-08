@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+.　　∧,_,∧
+　　(`･ω･´)　 ｎ__
+　η ＞　 ⌒＼/ ､_∃
+(∃)/ ∧　　＼_/
+　＼_/　＼　　丶
+　　　　／ y　 ﾉ
+　　　／ ／　／
+　　 (　(　〈
+ 　 　　＼ ＼　＼
+  　　 　(＿(＿＿)
+
+
+
+
+
 <!--
 **YumYumNyang/YumYumNyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
