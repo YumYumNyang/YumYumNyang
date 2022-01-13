@@ -27,7 +27,7 @@ I'm Hyewon(a.k.a YumYumNyang), interested in **Frontend Development**.
 
 ###  :purple_heart: ​Contact Me ###
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yumyumcoding.tistory.com/)](https://yumyumcoding.tistory.com/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yumyumnyang.github.io/)](https://yumyumnyang.github.io/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/theonlyone_hye1/)](https://www.instagram.com/theonlyone_hye1/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw121699@gmail.com)](mailto:khw121699@gmail.com)
 
 
