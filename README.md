@@ -10,6 +10,7 @@ I'm Hyewon(a.k.a YumYumNyang), interested in **Frontend Development**.
 ### :dizzy: Experience​
 |              TYPE               |          DATE           |                           Content                            |
 | :-----------------------------: | :---------------------: | :----------------------------------------------------------: |
+| 🌈<br /> **Intern** | 2022.05 - 2022.10  | **<a href="https://company.nexon.com/">Nexon Korea</a> Frontend Developer** | 
 | 🌈<br /> **Intern** | 2020.09 - 2021.02  | **<a href="https://ninehire.com/">Ninehire</a> Frontend Developer** | 
 | 🎨<br /> **Activity** | 2020.09 - | **<a href="https://www.instagram.com/zzoori_salon/">Zoori Salon</a> Illustrator** | 
 | 🦁 <br /> **Activity** | 2020.04 - 2021.02 | **Like a Lion** |  
