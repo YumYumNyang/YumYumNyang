@@ -15,7 +15,7 @@ I'm Hyewon(a.k.a YumYumNyang), interested in **Frontend Development**.
 | 🎨<br /> **Activity** | 2020.09 - | **<a href="https://www.instagram.com/zzoori_salon/">Zoori Salon</a> Illustrator** | 
 | 🦁<br /> **Activity** | 2020.04 - 2021.02 | **Like a Lion** |  
 | 🔥<br /> **Activity** | 2019.09 - 2020.09 |   **Developer Students Club**   |
-| :school_satchel:<br />**Education** |      2018.03.01 -       |                  **Pusan National University**      |     
+| :school_satchel:<br />**Education** |      2018.03.01 -  2022.08.26     |                  **Pusan National University**      |     
 
     
 
