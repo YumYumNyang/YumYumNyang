@@ -19,5 +19,5 @@ I'm Hyewon(a.k.a YumYumNyang) **Creator, Frontend developer**.
 
 ###  :purple_heart: ​Contacts ###
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yumyumnyang.github.io/)](https://yumyumnyang.github.io/)
+[![TIL Badge](http://img.shields.io/badge/-DAILY%20LOG-0000ff?style=flat-square&link=https://heathered-bag-309.notion.site/eed28ad123b84f4ba152c92bd8200d25?v=fcdbb064fc5c42d7baeb59c05d040b78)](https://heathered-bag-309.notion.site/eed28ad123b84f4ba152c92bd8200d25?v=fcdbb064fc5c42d7baeb59c05d040b78)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw121699@gmail.com)](mailto:khw121699@gmail.com)
