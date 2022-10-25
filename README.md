@@ -9,6 +9,7 @@ I'm Hyewon(a.k.a YumYumNyang) **Creator, Frontend developer**.
 ### :dizzy: Experience​
 |              TYPE               |          DATE           |                           Content                            |
 | :-----------------------------: | :---------------------: | :----------------------------------------------------------: |
+| **FE Developer** | 2022.11-  | **<a href="https://www.nexon.com/Home/Game">Nexon Korea</a> Frontend Developer** | 
 | **Intern** | 2022.05 - 2022.10  | **<a href="https://www.nexon.com/Home/Game">Nexon Korea</a> Frontend Developer** | 
 | **Intern** | 2020.09 - 2021.02  | **<a href="https://ninehire.com/">Ninehire</a> Frontend Developer** | 
 | **Activity** | 2020.09 - | **<a href="https://www.instagram.com/zzoori_salon/">Zoori Salon</a> Illustrator** | 
