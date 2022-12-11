@@ -21,7 +21,7 @@ I'm Hyewon(a.k.a YumYumNyang) **Creator, Frontend developer**.
 
 ###  :purple_heart: ​Contacts ###
 
-[![TIL Badge](http://img.shields.io/badge/-DAILY%20LOG-0000ff?style=flat-square&link=https://heathered-bag-309.notion.site/eed28ad123b84f4ba152c92bd8200d25?v=fcdbb064fc5c42d7baeb59c05d040b78)](https://heathered-bag-309.notion.site/eed28ad123b84f4ba152c92bd8200d25?v=fcdbb064fc5c42d7baeb59c05d040b78)
+[![TIL Badge](http://img.shields.io/badge/-DAILY%20LOG-0000ff?style=flat-square&link=https://theonlyonehye1.notion.site/eed28ad123b84f4ba152c92bd8200d25?v=fcdbb064fc5c42d7baeb59c05d040b78)](https://theonlyonehye1.notion.site/eed28ad123b84f4ba152c92bd8200d25?v=fcdbb064fc5c42d7baeb59c05d040b78)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw121699@gmail.com)](mailto:khw121699@gmail.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYumYumNyang&count_bg=%231137FF&title_bg=%232A2A2A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
